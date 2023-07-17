@@ -32,7 +32,7 @@ Instructions for Use:
 
 ![img_20180318_181521_hdr](https://user-images.githubusercontent.com/17234130/40727661-fcbbe064-6445-11e8-9cec-24b56c02d584.jpg)
 
-![40354931-b60e939c-5dd2-11e8-8747-171c0dddda23](https://user-images.githubusercontent.com/17234130/40727784-40df0168-6446-11e8-9f43-fc5609971da7.jpeg)
+
 
 # smart-bin-test
 # smart-bin-test
